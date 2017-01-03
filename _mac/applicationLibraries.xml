@@ -20,6 +20,9 @@
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_moment_moment.d.ts" />
       </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://momentjs.com/docs/" />
+      </DOCUMENTATION>
       <SOURCES />
     </library>
     <library name="oracledb-DefinitelyTyped" type="javaScript">
